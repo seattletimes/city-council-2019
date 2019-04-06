@@ -12,7 +12,7 @@
       <main class="interactive"> 
         
           <div class="header">
-            <h2>Who should lead Seattle? <br>Meet the candidates running for City Council in 2019</h2>
+            <h1>Who should lead Seattle? <br>Meet the candidates running for City Council in 2019</h1>
 
             <p class="chatter">All seven of the Seattle City Council’s district seats are up for grabs in 2019, four incumbents have dropped out and dozens of new candidates have jumped in. The primary election is Aug. 6, and the two candidates with the most votes in each district will advance to the Nov. 5 general election.</p>
 
@@ -21,20 +21,62 @@
 
           <ul>
             
-              <li><button type="button">District 1</button></li>
-              <li><button type="button">District 2</button></li>
-              <li><button type="button">District 3</button></li>
-              <li><button type="button">District 4</button></li>
-              <li><button type="button">District 5</button></li>
-              <li><button type="button">District 6</button></li>
-              <li><button type="button">District 7</button></li>
+              <li><button onClick="showHide('btn1')">District 1</button></li>
+              <li><button onClick="showHide('btn2')">District 2</button></li>
+              <li><button onClick="showHide('btn3')">District 3</button></li>
+              <li><button onClick="showHide('btn4')">District 4</button></li>
+              <li><button onClick="showHide('btn5')">District 5</button></li>
+              <li><button onClick="showHide('btn6')">District 6</button></li>
+              <li><button onClick="showHide('btn7')">District 7</button></li>
             
           </ul>
         </div>
 
-        <div class="wrapper">
+        <div class="wrapper" id="btn1">
 
-      <% json.Candidates.forEach(function(item, i) { %>
+      <% json.District1.forEach(function(item, i) { %>
+      <%= t.include("_details.html", { item: item, index: i }) %>
+    <% }) %>
+
+        </div>
+        <div class="wrapper" id="btn2">
+
+      <% json.District2.forEach(function(item, i) { %>
+      <%= t.include("_details.html", { item: item, index: i }) %>
+    <% }) %>
+
+        </div>
+        <div class="wrapper" id="btn3">
+
+      <% json.District3.forEach(function(item, i) { %>
+      <%= t.include("_details.html", { item: item, index: i }) %>
+    <% }) %>
+
+        </div>
+        <div class="wrapper" id="btn4">
+
+      <% json.District4.forEach(function(item, i) { %>
+      <%= t.include("_details.html", { item: item, index: i }) %>
+    <% }) %>
+
+        </div>
+        <div class="wrapper" id="btn5">
+
+      <% json.District5.forEach(function(item, i) { %>
+      <%= t.include("_details.html", { item: item, index: i }) %>
+    <% }) %>
+
+        </div>
+        <div class="wrapper" id="btn6">
+
+      <% json.District6.forEach(function(item, i) { %>
+      <%= t.include("_details.html", { item: item, index: i }) %>
+    <% }) %>
+
+        </div>
+        <div class="wrapper" id="btn7">
+
+      <% json.District7.forEach(function(item, i) { %>
       <%= t.include("_details.html", { item: item, index: i }) %>
     <% }) %>
 
@@ -44,7 +86,19 @@
     
     <%= t.include("partials/_navBottom.html") %>
 
-     
+    <script>
+    function showHide(e) {
+        var srcElement = document.getElementById(e);        
+        if (srcElement.style.display == "none") {
+            srcElement.style.display = 'flex';
+          }
+          else {
+            srcElement.style.display = 'none';
+          }
+          return false;
+        }
+      
+    </script>
     <script src="app.js" async></script>
     <% if (json.project.production) { %>
     <%= !json.project.embedded ? t.include("partials/_analytics.html") : "" %>

@@ -14,11 +14,6 @@ main.interactive {
 }
 
 
-h2 {
-	text-align:center;
-	font-size:2.5em;
-}
-
 .chatter {
 	text-align:center;
 	max-width:960px;
@@ -86,6 +81,26 @@ input {
 		display:none;
 	}
 
+input:checked ~ .responses {
+		display:block;
+		opacity:1;
+		transition: 0.5s ease;
+	}
+
+	input:checked + .excerpt {
+		display: none;
+	}
+
+	.responses {
+		padding-top:20px;
+		display:none;
+		opacity:0;
+		background:white;
+		z-index:999;
+		transition: 0.5s ease;
+	}
+	
+
 .name {
 	font-size: 16px;
 	font-weight: bold;
@@ -116,5 +131,6 @@ input {
 	font-size: 18px;
 	margin:0 auto;
 }
+
 
 

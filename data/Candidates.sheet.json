@@ -2,7 +2,7 @@
   {
     "District": 1,
     "Name": "Brendan Kolding",
-    "Summary": "Brendan Kolding is a Seattle police lieutenant. He ran unsuccessfully for a state house seat in 2016 as a Democrat.",
+    "Summary": "Brendan Kolding is a Seattle police lieutenant who ran unsuccessfully for a state house seat in 2016 as a Democrat.",
     "Age": 36,
     "Website": "brendankolding.com",
     "Occupation": "Seattle police lieutentant",
@@ -116,7 +116,7 @@
   {
     "District": 2,
     "Name": "Henry Clay Dennison",
-    "Summary": "Henry Clay Dennison is a Socialist Worker Party member and a railway worker who has advocated for farmworkers in the Skagit Valley.",
+    "Summary": "Henry Clay Dennison is a Socialist Worker Party member and a railroad worker who has advocated for farmworkers in the Skagit Valley.",
     "Age": 63,
     "Website": "www.themilitant.com",
     "Occupation": "Railroad worker",
@@ -182,7 +182,7 @@
   {
     "District": 2,
     "Name": "Tammy Morales",
-    "Summary": "Tammy Morales is a community organizer who was narrowly defeated in District 2 in 2015. She previously worked as a consultant on healthful food access.",
+    "Summary": "Tammy Morales was was narrowly defeated in District 2 in 2015. A Rainier Beach community organizer, she previously worked as a consultant on healthful food access.",
     "Age": 50,
     "Website": "http://www.votefortammy.com/",
     "Occupation": "Community organizer",
@@ -293,7 +293,7 @@
   {
     "District": 3,
     "Name": "Sara Brereton",
-    "Summary": "Sara Brereton is an entrepreneur who ran a Central District coffee shop and spoke out against the impacts of 23rd Avenue street construction.",
+    "Summary": "Sara Brereton previously ran a Central District coffee shop and spoke out against the impacts of 23rd Avenue street construction.",
     "Age": 41,
     "Occupation": "Entrepreneur",
     "Neighborhood": "Capitol Hill",
@@ -374,7 +374,7 @@
   {
     "District": 4,
     "Name": "Ethan Hunter",
-    "Summary": "Ethan Hunter, 19, says he would bring a fresh perspective to City Hall. He says Seattle should tax companies like Amazon to help poor and working-class residents.",
+    "Summary": "Ethan Hunter says he would bring a fresh perspective to City Hall. He says Seattle should tax companies like Amazon to help poor and working-class residents.",
     "Age": 19,
     "Website": "hunter4seattlecitycouncil.com",
     "Occupation": "Line cook",
@@ -390,7 +390,7 @@
   {
     "District": 4,
     "Name": "Frank Krueger",
-    "Summary": "Frank Krueger is a software developer. He says rent hikes like the increase that forced him to move his small business off The Ave are Seattle's most important problem.",
+    "Summary": "Frank Krueger says rent hikes like the increase that forced him to move his small software-development business off The Ave are Seattle's most important problem.",
     "Age": 38,
     "Website": "votefrank.org",
     "Occupation": "Small-business owner and software developer",
@@ -423,7 +423,7 @@
   {
     "District": 4,
     "Name": "Joshua Newman",
-    "Summary": "Joshua Newman is a Boeing engineer who's been active with biking- and transit-advocacy organizations. He's served on the Maple Leaf Community Council.",
+    "Summary": "Joshua Newman is a union engineer who's been active with biking- and transit-advocacy organizations. He's served on the Maple Leaf Community Council.",
     "Age": 38,
     "Website": "www.votenewman.com",
     "Occupation": "Industrial engineer",
@@ -486,7 +486,7 @@
   {
     "District": 5,
     "Name": "Ann Davison Sattler",
-    "Summary": "Ann Davison Sattler is an attorney who once worked for the Supersonics. She says Seattle should further subsidize recreational activites for low-income children.",
+    "Summary": "Ann Davison Sattler is an attorney who once worked for the Seattle Supersonics. She says the city should further subsidize recreational activites for low-income children.",
     "Age": 50,
     "Website": "https://neighborsforann.com/",
     "Occupation": "Attorney",
@@ -599,7 +599,7 @@
   {
     "District": 6,
     "Name": "Jay Fathi",
-    "Summary": "Jay Fathi is a doctor who has specialized in community-based care. He led a statewide health-insurance plan.",
+    "Summary": "Jay Fathi is a doctor who has specialized in community-based care. He led a statewide health-insurance plan but was ultimately let go.",
     "Age": 52,
     "Website": "jayforseattle.com",
     "Occupation": "Family physician",
@@ -631,7 +631,7 @@
   {
     "District": 6,
     "Name": "Joey Massa",
-    "Summary": "Joey Massa is a Washington Army National Guard veteran whose father is mayor of a small town in Eastern Washington. ",
+    "Summary": "Joey Massa is a Washington Army National Guard veteran whose father is the mayor of a small town in Eastern Washington. ",
     "Age": 28,
     "Website": "www.MassaforProgress.com",
     "Occupation": "Seattle City Council candidate",
@@ -647,7 +647,7 @@
   {
     "District": 6,
     "Name": "John Peeples",
-    "Summary": "John Peeples is Green Lake residents and an advocate for smaller government. He ran unsuccessfully for a state house seat in 2018 as a Republican.",
+    "Summary": "John Peeples is a Green Lake resident and an advocate for smaller government. He ran unsuccessfully for a state house seat in 2018 as a Republican.",
     "Age": 47,
     "Website": "www. peeplesforseattle.com",
     "Occupation": "Boeing engineer",
@@ -725,7 +725,7 @@
   {
     "District": 6,
     "Name": "Sergio Garcia",
-    "Summary": "Sergio Garcia is a Seattle police officer who's worked in Ballard. He says he'd bring a \"balanced approach\" to government.",
+    "Summary": "Sergio Garcia is a Seattle police officer who's worked in Ballard. He spoke out for a new police-union contract.",
     "Age": 35,
     "Website": "www.sergioforseattle.org",
     "Occupation": "Seatle police officer",
@@ -836,7 +836,7 @@
   {
     "District": 7,
     "Name": "Jason Williams",
-    "Summary": "Jason Williams once drove an IKEA forklift but now works at Microsoft. He's not a supporter of low-income housing at Fort Lawton.",
+    "Summary": "Jason Williams once drove an IKEA forklift but now works at Microsoft. He supports a complete replacement of the Magnolia BRidge.",
     "Age": 31,
     "Website": "www.electjasonwilliams.com",
     "Occupation": "Microsoft product marketer",
@@ -873,7 +873,7 @@
     "Summary": "Michael George works on public-sector transportation and housing projects at a real-estate company. He advocates for families that live downtown.",
     "Age": 39,
     "Website": "michaelforseattle.com",
-    "Occupation": "Real-estate company project manager",
+    "Occupation": "Real-estate company public-sector project manager",
     "Neighborhood": "Downtown",
     "Rent": "Own",
     "Committee": "Planning, Land Use and Zoning or Sustainability and Transportation",
