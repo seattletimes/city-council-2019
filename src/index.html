@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <%= t.include("partials/_head.html", grunt.data.json) %>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    
+  </head>
+  <body>
+
+    <%= t.include("partials/_nav.html") %>
+
+      <main class="interactive"> 
+        
+          <div class="header">
+            <h2>Who should lead Seattle? <br>Meet the candidates running for City Council in 2019</h2>
+
+            <p class="chatter">All seven of the Seattle City Council’s district seats are up for grabs in 2019, four incumbents have dropped out and dozens of new candidates have jumped in. The primary election is Aug. 6, and the two candidates with the most votes in each district will advance to the Nov. 5 general election.</p>
+
+            <p class="chatter"><a href="https://www.seattletimes.com/tag/2019-seattle-city-council-elections/">Click here for complete coverage of the 2019 Seattle City Council elections</a></p>
+            </div>
+
+          <ul>
+            
+              <li><button type="button">District 1</button></li>
+              <li><button type="button">District 2</button></li>
+              <li><button type="button">District 3</button></li>
+              <li><button type="button">District 4</button></li>
+              <li><button type="button">District 5</button></li>
+              <li><button type="button">District 6</button></li>
+              <li><button type="button">District 7</button></li>
+            
+          </ul>
+        </div>
+
+        <div class="wrapper">
+
+      <% json.Candidates.forEach(function(item, i) { %>
+      <%= t.include("_details.html", { item: item, index: i }) %>
+    <% }) %>
+
+        </div>
+                 
+     </main>
+    
+    <%= t.include("partials/_navBottom.html") %>
+
+     
+    <script src="app.js" async></script>
+    <% if (json.project.production) { %>
+    <%= !json.project.embedded ? t.include("partials/_analytics.html") : "" %>
+    <%= t.include("partials/_workHere.html") %>
+    <% } %>
+  </body>
+</html>

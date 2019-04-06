@@ -1,0 +1,29 @@
+<section class="<%= item.District %>">
+            <div class="block">
+               <div>
+               <img class="candidate-photo" src="./assets/<%= item.Photo %>.jpg"/>
+               
+               <p class="label">District <%= item.District %></p>
+
+               <p class="candidate-info"><%= item.Name %>, <%= item.Age %><br></p>
+               <p class="candidate-stats"><%= item.Occupation %></p>
+               </div>
+            
+               <div>
+                <p>
+                  <strong></strong> <%= item.Summary %> </p>
+                  <p><strong>What’s the city’s most important problem?</strong> <%= item.Problem %> </p>
+                  <p><strong>What committee would you like to chair?</strong> <%= item.Committee %></p>
+                  <p><strong>Voucher status:</strong> <%= item.Voucher %>
+                  </p>
+                  <p><strong>Contributions:</strong> <%= item.Contributions %>
+                  <br>
+                  <strong>Contributors:</strong> <%= item.Contributors %>
+                  </p>
+                  <p> <strong>Where do you live? </strong><%= item.Neighborhood %><br>
+                  <strong>Own or rent? </strong><%= item.Rent %></p>
+                  <br/><span class="name"> 
+                  <a href="<%= item.Website %>">Website</a></span>
+                  </div>
+               </div>
+</section>

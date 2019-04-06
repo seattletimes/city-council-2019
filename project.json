@@ -1,0 +1,20 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "wrathful-spotlessly"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": ""
+    }
+  },
+  "title": "",
+  "description": "",
+  "url": "",
+  "image": "assets/social.jpg",
+  "sheets": ["1SEJXyEmu9qNDJisxNcu3zJsFO2gmmNzST0MOhFOBdhY"],
+  "standout": false,
+  "embedded": false,
+  "production": true
+}
