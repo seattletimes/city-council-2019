@@ -10,18 +10,44 @@
     <%= t.include("partials/_nav.html") %>
 
       <main class="interactive"> 
+        <div class="header">
+        <h1>Who should lead Seattle?</h1>
+            <p style="font-family:ff-meta-serif-web-pro, Georgia, serif;font-size:24px;text-align:center;">Meet the candidates running for City Council in 2019</p>
+          </div>
+          <div class="map-container">
+         <div class="aspect-ratio-outer">
+        <div class="aspect-ratio-inner">
+
+          <leaflet-map zoom=10>
+            <tile-layer layer="cartoPositron"></tile-layer>
+            <geo-json>
+              <geo-data>
+                <%= t.include("js/district_shapes.geo.json") %>
+              </geo-data>
+              <geo-style>{ "weight": 1, "color": "#000", "opacity":0.1 }</geo-style>
+              
+              
+            </geo-json>
+          </leaflet-map>
+
+        </div>
+        
+      </div>
+    </div>
         
           <div class="header">
-            <h1>Who should lead Seattle?</h1>
-            <p style="font-family:ff-meta-serif-web-pro, Georgia, serif;font-size:24px;text-align:center;">Meet the candidates running for City Council in 2019</p>
+            
 
             <p class="chatter">All seven of the Seattle City Council’s district seats are up for grabs in 2019, four incumbents have dropped out and dozens of new candidates have jumped in. The primary election is Aug. 6, and the two candidates with the most votes in each district will advance to the Nov. 5 general election.</p>
             <hr style="width:30%">
-            <p class="chatter"><a href="https://www.seattletimes.com/seattle-news/politics/change-is-what-were-talking-about-more-than-50-council-candidates-set-sights-on-seattle-city-hall/"><strong>Read more:</strong> Change is what we're talking about: More than 50 council candidates set sights on Seattle City Hall</a></p>
+            <p class="chatter"><a href="https://www.seattletimes.com/seattle-news/politics/change-is-what-were-talking-about-more-than-50-council-candidates-set-sights-on-seattle-city-hall/"><strong>Change is what we're talking about:</strong> More than 50 council candidates set sights on Seattle City Hall</a></p>
             <hr style="width:30%">
             <p class="chatter"><a href="https://www.seattletimes.com/tag/2019-seattle-city-council-elections/">Click here for complete coverage of the 2019 Seattle City Council elections</a></p>
             <hr style="width:30%">
             <p class="chatter"><strong>Choose your district. See where the candidates stand on the issues.</strong></p>
+
+           
+
             <ul>
             
               <li><input type="checkbox" onClick="showHide('btn1')"> District 1</li>
