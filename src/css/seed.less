@@ -5,14 +5,17 @@ main.interactive {
  
 }
 
-.wrapper {
+.active {
 	display:flex;
+}
+
+.container {
+	display:none;
 	width:100%;
 	flex-flow:row wrap;
 	margin:0 auto;
 	max-width:1600px;
 }
-
 
 .chatter {
 	text-align:center;
@@ -22,6 +25,7 @@ main.interactive {
 
 ul {
 	text-align:center;
+
 }
 
 li {
@@ -44,8 +48,8 @@ li {
 
 button {
    border-top: 1px solid #96d1f8;
-   background: #65a9d7;
-   padding: 20px 40px;
+   background-color: #65a9d7;
+   padding: 10px 20px;
    -webkit-border-radius: 0px;
    -moz-border-radius: 0px;
    border-radius: 0px;
@@ -56,16 +60,23 @@ button {
    vertical-align: middle;
    }
 
-.button:hover {
-   border-top-color: #28597a;
-   background: #28597a;
-   color: #ccc;
+button:hover {
+   background-color: #28597a;
+   color: white;
    }
 
-.button:active {
-   border-top-color: #1b435e;
-   background: #1b435e;
+button:visited {
+   background-color: #28597a;
+   color: white;
    }
+
+   @media @mobile {
+   button {
+   padding: 5px 10px;
+   }
+   }
+
+
 
 section {
 	flex: 1 0 0;
@@ -77,9 +88,7 @@ section {
 
 
 
-input {
-		display:none;
-	}
+
 
 input:checked ~ .responses {
 		display:block;
@@ -95,7 +104,7 @@ input:checked ~ .responses {
 		padding-top:20px;
 		display:none;
 		opacity:0;
-		background:white;
+		
 		z-index:999;
 		transition: 0.5s ease;
 	}
@@ -122,6 +131,7 @@ input:checked ~ .responses {
 	font-weight: bold; 
 	font-size: 14px;
 }
+
 .candidate-info {
 	font-weight: bold; 
 	font-size: 18px;

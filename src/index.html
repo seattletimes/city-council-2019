@@ -12,69 +12,75 @@
       <main class="interactive"> 
         
           <div class="header">
-            <h1>Who should lead Seattle? <br>Meet the candidates running for City Council in 2019</h1>
+            <h1>Who should lead Seattle?</h1>
+            <p style="font-family:ff-meta-serif-web-pro, Georgia, serif;font-size:24px;text-align:center;">Meet the candidates running for City Council in 2019</p>
 
             <p class="chatter">All seven of the Seattle City Council’s district seats are up for grabs in 2019, four incumbents have dropped out and dozens of new candidates have jumped in. The primary election is Aug. 6, and the two candidates with the most votes in each district will advance to the Nov. 5 general election.</p>
-
+            <hr style="width:30%">
+            <p class="chatter"><a href="https://www.seattletimes.com/seattle-news/politics/change-is-what-were-talking-about-more-than-50-council-candidates-set-sights-on-seattle-city-hall/"><strong>Read more:</strong> Change is what we're talking about: More than 50 council candidates set sights on Seattle City Hall</a></p>
+            <hr style="width:30%">
             <p class="chatter"><a href="https://www.seattletimes.com/tag/2019-seattle-city-council-elections/">Click here for complete coverage of the 2019 Seattle City Council elections</a></p>
-            </div>
-
-          <ul>
+            <hr style="width:30%">
+            <p class="chatter"><strong>Choose your district. See where the candidates stand on the issues.</strong></p>
+            <ul>
             
-              <li><button onClick="showHide('btn1')">District 1</button></li>
-              <li><button onClick="showHide('btn2')">District 2</button></li>
-              <li><button onClick="showHide('btn3')">District 3</button></li>
-              <li><button onClick="showHide('btn4')">District 4</button></li>
-              <li><button onClick="showHide('btn5')">District 5</button></li>
-              <li><button onClick="showHide('btn6')">District 6</button></li>
-              <li><button onClick="showHide('btn7')">District 7</button></li>
+              <li><input type="checkbox" onClick="showHide('btn1')"> District 1</li>
+              <li><input type="checkbox" onClick="showHide('btn2')"> District 2</li>
+              <li><input type="checkbox" onClick="showHide('btn3')"> District 3</li>
+              <li><input type="checkbox" onClick="showHide('btn4')"> District 4</li>
+              <li><input type="checkbox" onClick="showHide('btn5')"> District 5</li>
+              <li><input type="checkbox" onClick="showHide('btn6')"> District 6</li>
+              <li><input type="checkbox" onClick="showHide('btn7')"> District 7</li>
             
           </ul>
+            </div>
+
+          
         </div>
 
-        <div class="wrapper" id="btn1">
+        <div class="container" id="btn1">
 
       <% json.District1.forEach(function(item, i) { %>
       <%= t.include("_details.html", { item: item, index: i }) %>
     <% }) %>
 
         </div>
-        <div class="wrapper" id="btn2">
+        <div class="container" id="btn2">
 
       <% json.District2.forEach(function(item, i) { %>
       <%= t.include("_details.html", { item: item, index: i }) %>
     <% }) %>
 
         </div>
-        <div class="wrapper" id="btn3">
+        <div class="container" id="btn3">
 
       <% json.District3.forEach(function(item, i) { %>
       <%= t.include("_details.html", { item: item, index: i }) %>
     <% }) %>
 
         </div>
-        <div class="wrapper" id="btn4">
+        <div class="container" id="btn4">
 
       <% json.District4.forEach(function(item, i) { %>
       <%= t.include("_details.html", { item: item, index: i }) %>
     <% }) %>
 
         </div>
-        <div class="wrapper" id="btn5">
+        <div class="container" id="btn5">
 
       <% json.District5.forEach(function(item, i) { %>
       <%= t.include("_details.html", { item: item, index: i }) %>
     <% }) %>
 
         </div>
-        <div class="wrapper" id="btn6">
+        <div class="container" id="btn6">
 
       <% json.District6.forEach(function(item, i) { %>
       <%= t.include("_details.html", { item: item, index: i }) %>
     <% }) %>
 
         </div>
-        <div class="wrapper" id="btn7">
+        <div class="container" id="btn7">
 
       <% json.District7.forEach(function(item, i) { %>
       <%= t.include("_details.html", { item: item, index: i }) %>
@@ -88,15 +94,21 @@
 
     <script>
     function showHide(e) {
-        var srcElement = document.getElementById(e);        
-        if (srcElement.style.display == "none") {
-            srcElement.style.display = 'flex';
-          }
-          else {
+        var srcElement = document.getElementById(e);
+        
+        if (srcElement.style.display == "flex") {
             srcElement.style.display = 'none';
           }
+          else {
+            srcElement.style.display = 'flex';
+
+          }
+
           return false;
         }
+        
+
+        
       
     </script>
     <script src="app.js" async></script>

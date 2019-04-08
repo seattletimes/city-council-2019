@@ -13,18 +13,22 @@
                   
                 <p>
                   <strong></strong> <%= item.Summary %> </p>
-                  <p><strong>What’s the city’s most important problem?</strong> <%= item.Problem %> </p>
-                  <p><strong>What committee would you like to chair?</strong> <%= item.Committee %></p>
-                  <p><strong>Voucher status:</strong> <%= item.Voucher %>
-                  </p>
-                  <p><strong>Contributions:</strong> <%= item.Contributions %>
-                  <br>
-                  <strong>Contributors:</strong> <%= item.Contributors %>
-                  </p>
-                  <p> <strong>Where do you live? </strong><%= item.Neighborhood %><br>
-                  <strong>Own or rent? </strong><%= item.Rent %></p>
-                  <br/><span class="name"> 
-                  <a href="<%= item.Website %>">Website</a></span>
+                  <label for="more<%= item.Photo %><%= index %>" class="excerpt name"><a>More info</a></strong></label>
+                  <input type="checkbox" style="display:none;" id="more<%= item.Photo %><%= index %>"/>
+                  <div class="responses">
+                     <p><strong>What’s the city’s most important problem?</strong> <%= item.Problem %> </p>
+                     <p><strong>What committee would you like to chair?</strong> <%= item.Committee %></p>
+                     <p><strong>Voucher status:</strong> <%= item.Voucher %>
+                     </p>
+                     <p><strong>Contributions:</strong> <%= item.Contributions %>
+                     <br>
+                     <strong>Contributors:</strong> <%= item.Contributors %>
+                     </p>
+                     <p> <strong>Where do you live? </strong><%= item.Neighborhood %><br>
+                     <strong>Own or rent? </strong><%= item.Rent %></p>
+                     <br/><span class="name"> 
+                     <a href="<%= item.Website %>"><%= item.Website %></a></span>
+                  </div>
                   </div>
                </div>
 </section>
