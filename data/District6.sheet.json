@@ -55,6 +55,7 @@
     "Name": "Jeremy Cook",
     "Summary": "Jeremy Cook is a North Ballard resident and graphic designer who believes drug addiction is the most important problem facing Seattle.",
     "Age": 37,
+    "Website": "https://cookforcouncil.com",
     "Occupation": "Graphic designer",
     "Neighborhood": "North Ballard",
     "Rent": "Rent",
@@ -179,7 +180,10 @@
   {
     "District": 6,
     "Name": "Terry Rice",
+    "Summary": "Terry Rice is the managing director of Savor Seattle, a food-tour company. He says he understands the needs of small-business owners.",
     "Age": 30,
+    "Website": "http://electterryrice.com/",
+    "Occupation": "Food-tour company managing director",
     "Neighborhood": "Didn't answer",
     "Rent": "Didn't answer",
     "Committee": "Didn't answer",

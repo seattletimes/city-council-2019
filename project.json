@@ -6,12 +6,12 @@
     },
     "live": {
       "bucket": "projects.seattletimes.com",
-      "path": ""
+      "path": "/2019/local/who-should-lead-seattle"
     }
   },
-  "title": "",
-  "description": "",
-  "url": "",
+  "title": "Who should lead Seattle?",
+  "description": "Meet the candidates running for City Council in 2019",
+  "url": "https://projects.seattletimes.com/2019/local/who-should-lead-seattle/",
   "image": "assets/social.jpg",
   "sheets": ["1SEJXyEmu9qNDJisxNcu3zJsFO2gmmNzST0MOhFOBdhY"],
   "standout": false,
