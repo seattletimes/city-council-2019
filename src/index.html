@@ -40,13 +40,12 @@
 
             <p class="chatter">All seven of the Seattle City Council’s district seats are up for grabs in 2019, four incumbents have dropped out and dozens of new candidates have jumped in. The primary election is Aug. 6, and the two candidates with the most votes in each district will advance to the Nov. 5 general election.</p>
             <hr style="width:30%">
-            <p class="chatter"><a href="https://www.seattletimes.com/seattle-news/politics/change-is-what-were-talking-about-more-than-50-council-candidates-set-sights-on-seattle-city-hall/"><strong>Change is what we're talking about:</strong> More than 50 council candidates set sights on Seattle City Hall</a></p>
+            <p class="chatter"><a href="https://www.seattletimes.com/seattle-news/politics/change-is-what-were-talking-about-more-than-50-council-candidates-set-sights-on-seattle-city-hall/"><strong>"Change is what we're talking about."</strong> More than 50 council candidates set sights on Seattle City Hall</a></p>
             <hr style="width:30%">
             <p class="chatter"><a href="https://www.seattletimes.com/tag/2019-seattle-city-council-elections/">Click here for complete coverage of the 2019 Seattle City Council elections</a></p>
             <hr style="width:30%">
             <p class="chatter"><strong>Choose your district to learn about who's running.</strong></p>
-
-           
+            
 
             <ul>
             
@@ -57,8 +56,10 @@
               <li><input type="checkbox" onClick="showHide('btn5')"> District 5</li>
               <li><input type="checkbox" onClick="showHide('btn6')"> District 6</li>
               <li><input type="checkbox" onClick="showHide('btn7')"> District 7</li>
+              <li><input type="checkbox" onClick="showHide('btn8')"> Show all</li>
             
           </ul>
+          <p class="chatter" style="font-style:italic">Reporting by Dan Beekman. This information was last updated on April 8, 2019</p>
             </div>
 
           
@@ -109,6 +110,13 @@
         <div class="container" id="btn7">
 
       <% json.District7.forEach(function(item, i) { %>
+      <%= t.include("_details.html", { item: item, index: i }) %>
+    <% }) %>
+
+        </div>
+        <div class="container" id="btn8">
+
+      <% json.Candidates.forEach(function(item, i) { %>
       <%= t.include("_details.html", { item: item, index: i }) %>
     <% }) %>
 
