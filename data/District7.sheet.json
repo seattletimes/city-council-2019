@@ -12,8 +12,8 @@
     "Problem": "Homelessness and affordability",
     "Endorsements": "Rep. Gael Tarleton, Fmr. King County Councilmember Larry Phillips, Fmr. Seattle City Councilmembers Martha Choe, Peter Steinbrueck, Nick Licata, and Heidi Wills, and many more.",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$30,225",
-    "Contributors": 378,
+    "Contributions": "$43,975",
+    "Contributors": 549,
     "Photo": "Andrew_Lewis"
   },
   {
@@ -28,8 +28,8 @@
     "Committee": "Gender Equity, Safe Communities, New Americans and Education",
     "Problem": "Homelessness",
     "Voucher": "Eligible to collect",
-    "Contributions": "$1,265",
-    "Contributors": 26,
+    "Contributions": "$7,995",
+    "Contributors": 62,
     "Photo": "Daniela_Eng"
   },
   {
@@ -44,8 +44,8 @@
     "Committee": "Parks",
     "Problem": "The council simply does not listen to or respond to citizens and the naive policy of allowing people to live on the street, in our parks, anywhere they choose",
     "Voucher": "Not participating",
-    "Contributions": "$3,500",
-    "Contributors": 1,
+    "Contributions": "$4,050",
+    "Contributors": 3,
     "Photo": "Don_Harper"
   },
   {
@@ -76,7 +76,7 @@
     "Committee": "Finance and Neighborhoods",
     "Problem": "The city of Seattle’s most important problem is homelessness, which is directly and indirectly related to mental illness, addiction and lack of job training amongst industries demonstrating a high demand for more skilled workers.",
     "Voucher": "Eligible to collect",
-    "Contributions": "$1,190",
+    "Contributions": "$1,257",
     "Contributors": 30,
     "Photo": "Isabelle_Kerner"
   },
@@ -92,9 +92,9 @@
     "Committee": "Civil Rights, Utilities, Economic Development and Arts",
     "Problem": "Ensuring all can benefit from Seattle's economic growth",
     "Endorsements": "Former CEO of Workforce Development Council of Seattle-King County; Dennis Madsen, Former CEO of REI and Forterra board member; Tracey Eide, Former Democratic State Senator and Majority Floor Leader",
-    "Voucher": "Eligible to collect",
-    "Contributions": "$13,912",
-    "Contributors": 206,
+    "Voucher": "Eligible to collect and redeem",
+    "Contributions": "$13,902",
+    "Contributors": 207,
     "Photo": "Jason_Williams"
   },
   {
@@ -110,8 +110,8 @@
     "Problem": "Bringing various groups together to prevent future and resolve current homelessness",
     "Endorsements": "Alison Holcomb, Justice Bobbe Bridge (ret), Renee Hopkins, Melinda Giovengo, Lisa Daugaard, Dan Malone, Chandler Gayton, LaKeith Asphy, Phil Fuji, my mom",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$40,476",
-    "Contributors": 297,
+    "Contributions": "$41,436",
+    "Contributors": 303,
     "Photo": "Jim_Pugel"
   },
   {
@@ -126,8 +126,8 @@
     "Committee": "Planning, Land Use and Zoning or Sustainability and Transportation",
     "Problem": "Balancing inclusivity with neighborhood livability",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$19,095",
-    "Contributors": 222,
+    "Contributions": "$39,765",
+    "Contributors": 504,
     "Photo": "Michael_George"
   },
   {
@@ -142,8 +142,23 @@
     "Committee": "Human Services, Equitable Development and Renter Rights",
     "Problem": "Seattle should be livable for everyone.",
     "Voucher": "Not participating",
-    "Contributions": "$5,351",
-    "Contributors": 23,
+    "Contributions": "$6,476",
+    "Contributors": 29,
     "Photo": "Naveed_Jamali"
+  },
+  {
+    "District": 7,
+    "Name": "Gene Burrus",
+    "Summary": "Gene Burrus is a consultant and attorney who previously worked on anti-trust issues at Microsoft. He's opposed Seattle's waterfront local improvement district.",
+    "Age": 55,
+    "Occupation": "Consultant and attorney",
+    "Neighborhood": "Downtown",
+    "Rent": "Own",
+    "Committee": "Gender Equity, Safe Communities, New Americans and Education",
+    "Problem": "Homelessness, addiction and crime",
+    "Voucher": "Eligibe to collect",
+    "Contributions": "$250",
+    "Contributors": 1,
+    "Photo": "Gene_Burrus"
   }
 ]

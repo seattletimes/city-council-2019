@@ -11,8 +11,8 @@
     "Committee": "Gender Equity, Safe Communities, New Americans and Education",
     "Problem": "Affordability",
     "Voucher": "Eligible to collect",
-    "Contributions": "$15,473",
-    "Contributors": 210,
+    "Contributions": "$17,839",
+    "Contributors": 275,
     "Photo": "Ami_Nguyen"
   },
   {
@@ -41,8 +41,8 @@
     "Committee": "Human Services, Equitable Development and Renter Rights",
     "Problem": "Without a doubt the homelessness crisis and all its parts — the shelter crisis, mental-health and substance-abuse crisis and the affordability crisis — is the most pressing issue in the daily lives of citizens, both sheltered and unsheltered.",
     "Voucher": "Eligible to collect",
-    "Contributions": "$0",
-    "Contributors": 0,
+    "Contributions": "$8,235",
+    "Contributors": 185,
     "Photo": "Egan_Orion"
   },
   {
@@ -57,8 +57,8 @@
     "Committee": "Human Services, Equitable Development and Renter Rights",
     "Problem": "We need to make Seattle a city that is affordable for all.",
     "Voucher": "Not participating",
-    "Contributions": "$51,067",
-    "Contributors": 576,
+    "Contributions": "$76,686",
+    "Contributors": 830,
     "Photo": "Kshama_Sawant"
   },
   {
@@ -73,8 +73,8 @@
     "Committee": "Planning, Land Use and Zoning",
     "Problem": "We have more people than we have homes and it’s leading to skyrocketing costs, displacement and increased homelessness.",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$41,412",
-    "Contributors": 505,
+    "Contributions": "$73,772",
+    "Contributors": 891,
     "Photo": "Logan_Bowers"
   },
   {
@@ -89,8 +89,8 @@
     "Committee": "Finance and Neighborhoods",
     "Problem": "Out-of-state/country developers purchasing large parcels/developments without oversight by city leadership, resulting in unaffordable residential and commercial rental rates and mistreatment of tenants",
     "Voucher": "Eligible to collect",
-    "Contributions": "$5,493",
-    "Contributors": 44,
+    "Contributions": "$9,332",
+    "Contributors": 164,
     "Photo": "Pat_Murakami"
   },
   {
@@ -107,5 +107,21 @@
     "Contributions": "$0",
     "Contributors": 0,
     "Photo": "round-person"
+  },
+  {
+    "District": 3,
+    "Name": "Zachary DeWolf",
+    "Summary": "Zachary DeWolf is serving his first term on the Seattle School Board. He works as a program manager for All Home, King County’s coordinating agency on homelessness.  ",
+    "Age": 33,
+    "Website": "https://www.electdewolf.com/",
+    "Occupation": "Program manager at All Home",
+    "Neighborhood": "Central District",
+    "Rent": "Own",
+    "Committee": "Homelessness/affordability",
+    "Problem": "We need to address homelessness.",
+    "Voucher": "Eligible to collect",
+    "Contributions": "$7,937",
+    "Contributors": 219,
+    "Photo": "Zachary_DeWolf"
   }
 ]

@@ -11,8 +11,8 @@
     "Committee": "Gender Equity, Safe Communities, New Americans and Education",
     "Problem": "Homelessness",
     "Voucher": "Eligible to collect",
-    "Contributions": "$4,861",
-    "Contributors": 36,
+    "Contributions": "$9,315",
+    "Contributors": 172,
     "Photo": "Brendan_Kolding"
   },
   {
@@ -32,23 +32,6 @@
   },
   {
     "District": 1,
-    "Name": "Jesse Greene",
-    "Summary": "Jesse Greene owns Uncle Woody's Popcorn in South Park and serves on the Washington State Advisory Council on Homelessness.",
-    "Age": 39,
-    "Website": "https://www.jessegreene.com",
-    "Occupation": "Small-business owner",
-    "Neighborhood": "Alki",
-    "Rent": "Rent",
-    "Committee": "Planning, Land Use and Zoning",
-    "Problem": "Addressing the core drivers of homelessness",
-    "Endorsements": "Seattle Councilmember Lorena González, King County Councilmember Rod Dembowski, State Senator Joe Nyugen",
-    "Voucher": "Eligible to collect",
-    "Contributions": "$4,050",
-    "Contributors": 21,
-    "Photo": "Jesse_Greene"
-  },
-  {
-    "District": 1,
     "Name": "Lisa Herbold",
     "Summary": "Lisa Herbold is the District 1 incumbent. First elected in 2015, Herbold has focused on renter and worker rights.",
     "Age": 51,
@@ -60,8 +43,8 @@
     "Problem": "Affordability/homelessness",
     "Endorsements": "Seattle Councilmember Lorena González, King County Councilmember Rod Dembowski, State Senator Joe Nyugen",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$25,861",
-    "Contributors": 438,
+    "Contributions": "$55,722",
+    "Contributors": 829,
     "Photo": "Lisa_Herbold"
   },
   {
@@ -76,8 +59,8 @@
     "Committee": "Gender Equity, Safe Communities, New Americans and Education",
     "Problem": "Not effectively and equitably delivering services to address housing, mental-health, public-safety and substance-disorder issues",
     "Voucher": "Eligible to collect",
-    "Contributions": "$17,571",
-    "Contributors": 62,
+    "Contributions": "$19,811",
+    "Contributors": 98,
     "Photo": "Phillip_Tavel"
   }
 ]
