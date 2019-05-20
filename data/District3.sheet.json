@@ -10,9 +10,9 @@
     "Rent": "Rent",
     "Committee": "Gender Equity, Safe Communities, New Americans and Education",
     "Problem": "Affordability",
-    "Voucher": "Eligible to collect",
-    "Contributions": "$17,839",
-    "Contributors": 275,
+    "Voucher": "Eligible to collect and redeem",
+    "Contributions": "$18,386",
+    "Contributors": 279,
     "Photo": "Ami_Nguyen"
   },
   {
@@ -40,9 +40,9 @@
     "Rent": "Own",
     "Committee": "Human Services, Equitable Development and Renter Rights",
     "Problem": "Without a doubt the homelessness crisis and all its parts — the shelter crisis, mental-health and substance-abuse crisis and the affordability crisis — is the most pressing issue in the daily lives of citizens, both sheltered and unsheltered.",
-    "Voucher": "Eligible to collect",
-    "Contributions": "$8,235",
-    "Contributors": 185,
+    "Voucher": "Eligible to collect and redeem",
+    "Contributions": "$9,145",
+    "Contributors": 190,
     "Photo": "Egan_Orion"
   },
   {
@@ -57,8 +57,8 @@
     "Committee": "Human Services, Equitable Development and Renter Rights",
     "Problem": "We need to make Seattle a city that is affordable for all.",
     "Voucher": "Not participating",
-    "Contributions": "$76,686",
-    "Contributors": 830,
+    "Contributions": "$102,213",
+    "Contributors": 1228,
     "Photo": "Kshama_Sawant"
   },
   {
@@ -73,8 +73,8 @@
     "Committee": "Planning, Land Use and Zoning",
     "Problem": "We have more people than we have homes and it’s leading to skyrocketing costs, displacement and increased homelessness.",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$73,772",
-    "Contributors": 891,
+    "Contributions": "$82,230",
+    "Contributors": 910,
     "Photo": "Logan_Bowers"
   },
   {
@@ -88,9 +88,9 @@
     "Rent": "Own",
     "Committee": "Finance and Neighborhoods",
     "Problem": "Out-of-state/country developers purchasing large parcels/developments without oversight by city leadership, resulting in unaffordable residential and commercial rental rates and mistreatment of tenants",
-    "Voucher": "Eligible to collect",
-    "Contributions": "$9,332",
-    "Contributors": 164,
+    "Voucher": "Eligible to collect and redeem",
+    "Contributions": "$13,155",
+    "Contributors": 175,
     "Photo": "Pat_Murakami"
   },
   {
@@ -119,7 +119,7 @@
     "Rent": "Own",
     "Committee": "Homelessness/affordability",
     "Problem": "We need to address homelessness.",
-    "Voucher": "Eligible to collect",
+    "Voucher": "Eligible to collect and redeem",
     "Contributions": "$7,937",
     "Contributors": 219,
     "Photo": "Zachary_DeWolf"
