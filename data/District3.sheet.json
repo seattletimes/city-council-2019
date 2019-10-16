@@ -11,29 +11,16 @@
     "Committee": "Gender Equity, Safe Communities, New Americans and Education",
     "Problem": "Affordability",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$18,386",
-    "Contributors": 279,
-    "Photo": "Ami_Nguyen"
-  },
-  {
-    "District": 3,
-    "Name": "Asukaa Jaxx",
-    "Summary": "Asukaa Jaxx is a Capitol Hill activist and a critic of socialism.",
-    "Age": 50,
-    "Neighborhood": "Didn't answer",
-    "Rent": "Didn't answer",
-    "Committee": "Didn't answer",
-    "Problem": "Didn't answer",
-    "Voucher": "Eligible to collect",
-    "Contributions": "$0",
-    "Contributors": 0,
-    "Photo": "round-person"
+    "Contributions": "$90,517",
+    "Contributors": 1096,
+    "Photo": "Ami_Nguyen",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-3-candidates-on-the-issues/"
   },
   {
     "District": 3,
     "Name": "Egan Orion",
     "Summary": "Egan Orion is the executive director of the Capitol Hill Chamber of Commerce. He also manages PrideFest Seattle Center and PrideFest Capitol Hill.",
-    "Age": 47,
+    "Age": 48,
     "Website": "https://www.eganforseattle.org",
     "Occupation": "Capitol Hill Chamber of Commerce executive director",
     "Neighborhood": "Central District",
@@ -41,9 +28,10 @@
     "Committee": "Human Services, Equitable Development and Renter Rights",
     "Problem": "Without a doubt the homelessness crisis and all its parts — the shelter crisis, mental-health and substance-abuse crisis and the affordability crisis — is the most pressing issue in the daily lives of citizens, both sheltered and unsheltered.",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$9,145",
-    "Contributors": 190,
-    "Photo": "Egan_Orion"
+    "Contributions": "$81,266",
+    "Contributors": 776,
+    "Photo": "Egan_Orion",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-3-candidates-on-the-issues/"
   },
   {
     "District": 3,
@@ -57,9 +45,10 @@
     "Committee": "Human Services, Equitable Development and Renter Rights",
     "Problem": "We need to make Seattle a city that is affordable for all.",
     "Voucher": "Not participating",
-    "Contributions": "$102,213",
-    "Contributors": 1228,
-    "Photo": "Kshama_Sawant"
+    "Contributions": "$228,981",
+    "Contributors": 3029,
+    "Photo": "Kshama_Sawant",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-3-candidates-on-the-issues/"
   },
   {
     "District": 3,
@@ -73,9 +62,10 @@
     "Committee": "Planning, Land Use and Zoning",
     "Problem": "We have more people than we have homes and it’s leading to skyrocketing costs, displacement and increased homelessness.",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$82,230",
-    "Contributors": 910,
-    "Photo": "Logan_Bowers"
+    "Contributions": "$92,240",
+    "Contributors": 943,
+    "Photo": "Logan_Bowers",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-3-candidates-on-the-issues/"
   },
   {
     "District": 3,
@@ -89,24 +79,10 @@
     "Committee": "Finance and Neighborhoods",
     "Problem": "Out-of-state/country developers purchasing large parcels/developments without oversight by city leadership, resulting in unaffordable residential and commercial rental rates and mistreatment of tenants",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$13,155",
-    "Contributors": 175,
-    "Photo": "Pat_Murakami"
-  },
-  {
-    "District": 3,
-    "Name": "Sara Brereton",
-    "Summary": "Sara Brereton previously ran a Central District coffee shop and spoke out against the impacts of 23rd Avenue street construction.",
-    "Age": 41,
-    "Occupation": "Entrepreneur",
-    "Neighborhood": "Capitol Hill",
-    "Rent": "Rent",
-    "Committee": "Homelessness and Housing Affordability",
-    "Problem": "Understanding the fundamental misunderstanding of the primary reasons behind the current homelessness crisis",
-    "Voucher": "Not participating",
-    "Contributions": "$0",
-    "Contributors": 0,
-    "Photo": "round-person"
+    "Contributions": "$78,176",
+    "Contributors": 1024,
+    "Photo": "Pat_Murakami",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-3-candidates-on-the-issues/"
   },
   {
     "District": 3,
@@ -120,8 +96,9 @@
     "Committee": "Homelessness/affordability",
     "Problem": "We need to address homelessness.",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$7,937",
-    "Contributors": 219,
-    "Photo": "Zachary_DeWolf"
+    "Contributions": "$62,764",
+    "Contributors": 757,
+    "Photo": "Zachary_DeWolf",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-3-candidates-on-the-issues/"
   }
 ]

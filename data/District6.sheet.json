@@ -12,15 +12,33 @@
     "Problem": "The city and county need to regionally address homelessness in coordination with the state.",
     "Endorsements": "Councilmember Sally Bagshaw and Snohomish County Executive Dave Somers are early endorsers",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$47,702",
-    "Contributors": 654,
-    "Photo": "Dan_Strauss"
+    "Contributions": "$77,486",
+    "Contributors": 992,
+    "Photo": "Dan_Strauss",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-6-candidates-on-the-issues/"
+  },
+  {
+    "District": 6,
+    "Name": "Ed Pottharst",
+    "Summary": "Ed Pottharst is a Seattle Parks and Recreation planner who previously spent many years with the Department of Neighborhoods. He once served as Phinney Neighborhood Association board president.",
+    "Age": 62,
+    "Website": "https://edpottharst.nationbuilder.com",
+    "Occupation": "Planner for Seattle Parks and Recreation",
+    "Neighborhood": "Ballard",
+    "Rent": "Own",
+    "Committee": "Sustainability and Transportation",
+    "Problem": "Affordable housing",
+    "Voucher": "Eligible to collect",
+    "Contributions": "$21,605",
+    "Contributors": 235,
+    "Photo": "Ed_Pottharst",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-6-candidates-on-the-issues/"
   },
   {
     "District": 6,
     "Name": "Heidi Wills",
     "Summary": "Heidi Wills was a council member from 1999 to 2003. She's run a nonprofit that uses golf to help young people.",
-    "Age": 50,
+    "Age": 51,
     "Website": "https://heidiwills.com",
     "Occupation": "Co-owner of a small business",
     "Neighborhood": "Fremont",
@@ -29,15 +47,16 @@
     "Problem": "Addressing affordable housing and homelessness",
     "Endorsements": "Hilary Franz-WA State Lands Commissioner, Peter Steinbrueck- Port Commissioner, Javier Valdez- St. Rep., 46th District , Gary Locke-Former WA State Governor, Charles Royer- Former Seattle Mayor, Ron Sims- Former King County Executive, Judy Nicastro- Former Seattle City Councilmember",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$54,752",
-    "Contributors": 369,
-    "Photo": "Heidi_Wills"
+    "Contributions": "$83,065",
+    "Contributors": 762,
+    "Photo": "Heidi_Wills",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-6-candidates-on-the-issues/"
   },
   {
     "District": 6,
     "Name": "Jay Fathi",
     "Summary": "Jay Fathi is a doctor who has specialized in community-based care. As leader of a start-up statewide health-insurance plan, he helped 250,000 people get coverage, though he was ultimately let go.",
-    "Age": 52,
+    "Age": 53,
     "Website": "https://jayforseattle.com",
     "Occupation": "Family physician",
     "Neighborhood": "Fremont",
@@ -46,15 +65,16 @@
     "Problem": "We need less divisiveness and more collaboration to solve our city's challenges and deliver on our values.",
     "Endorsements": "https://jayforseattle.com/endorsements/",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$52,121",
-    "Contributors": 515,
-    "Photo": "Jay_Fathi"
+    "Contributions": "$82,000",
+    "Contributors": 757,
+    "Photo": "Jay_Fathi",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-6-candidates-on-the-issues/"
   },
   {
     "District": 6,
     "Name": "Jeremy Cook",
     "Summary": "Jeremy Cook is a North Ballard resident and graphic designer who believes drug addiction is the most important problem facing Seattle.",
-    "Age": 37,
+    "Age": 38,
     "Website": "https://cookforcouncil.com",
     "Occupation": "Graphic designer",
     "Neighborhood": "North Ballard",
@@ -62,9 +82,10 @@
     "Committee": "Housing, Health, Energy and Workers’ Rights",
     "Problem": "Drug addiction",
     "Voucher": "Eligible to collect",
-    "Contributions": "$344",
-    "Contributors": 11,
-    "Photo": "Jeremy_Cook"
+    "Contributions": "$1,849",
+    "Contributors": 18,
+    "Photo": "Jeremy_Cook",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-6-candidates-on-the-issues/"
   },
   {
     "District": 6,
@@ -78,9 +99,10 @@
     "Committee": "Housing, Health, Energy and Workers' Rights",
     "Problem": "A lack of data-driven, solution-oriented policy",
     "Voucher": "Eligible to collect",
-    "Contributions": "$1,479",
-    "Contributors": 19,
-    "Photo": "Joey_Massa"
+    "Contributions": "$2,897",
+    "Contributors": 38,
+    "Photo": "Joey_Massa",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-6-candidates-on-the-issues/"
   },
   {
     "District": 6,
@@ -94,9 +116,10 @@
     "Committee": "Budget",
     "Problem": "Homelessness and its related problems of addiction and crime, and the City Council's refusal to end the problem",
     "Voucher": "Not participating",
-    "Contributions": "$2,109",
-    "Contributors": 0,
-    "Photo": "John_Peeples"
+    "Contributions": "$3,207",
+    "Contributors": 4,
+    "Photo": "John_Peeples",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-6-candidates-on-the-issues/"
   },
   {
     "District": 6,
@@ -111,25 +134,43 @@
     "Problem": "Lack of true community engagement, which has derailed the city’s ability to respond effectively to growth-related issues like housing affordability, homelessness, mobility and public safety",
     "Voucher": "Eligible to collect and redeem",
     "Vmoney": "https://www.jonlisbin.com/endorsements",
-    "Contributions": "$25,541",
-    "Contributors": 400,
-    "Photo": "Jon_Lisbin"
+    "Contributions": "$42,822",
+    "Contributors": 580,
+    "Photo": "Jon_Lisbin",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-6-candidates-on-the-issues/"
+  },
+  {
+    "District": 6,
+    "Name": "Kara Ceriello",
+    "Summary": "Kara Ceriello is a former president and director of the Wallingford Chamber of Commerce. She owned a cards and gifts store in Wallingford for many years.",
+    "Age": 60,
+    "Occupation": "Family caregiver and family-farm manager",
+    "Neighborhood": "Loyal Heights",
+    "Rent": "Own",
+    "Committee": "Senior issues, Human Services or Housing",
+    "Problem": "The 1% versus the 99%, overdevelopment, homelessness, leaders who don't seem to pay much attention to the growing problems of regular people and the great need to tax the wealthy and corporations",
+    "Voucher": "Not participating",
+    "Contributions": "$0",
+    "Contributors": 0,
+    "Photo": "round-person",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-6-candidates-on-the-issues/"
   },
   {
     "District": 6,
     "Name": "Kate Martin",
     "Summary": "Kate Martin ran for mayor in 2013 but didn't advance past the primary. She pushed to save part of the Alaskan Way Viaduct for an elevated park.",
     "Age": 61,
-    "Website": "http://putkateonthecouncil.org/",
+    "Website": "https://putkateonthecouncil.org/",
     "Occupation": "Planner and designer",
     "Neighborhood": "PhinneyWood",
     "Rent": "Own",
     "Committee": "Planning, Land Use and Zoning",
     "Problem": "We prioritize the next cocktail instead of the next generation.",
-    "Voucher": "Eligible to collect",
-    "Contributions": "$10,218",
-    "Contributors": 158,
-    "Photo": "Kate_Martin"
+    "Voucher": "Eligible to collect and redeem",
+    "Contributions": "$57,231",
+    "Contributors": 624,
+    "Photo": "Kate_Martin",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-6-candidates-on-the-issues/"
   },
   {
     "District": 6,
@@ -142,23 +183,11 @@
     "Rent": "Rent",
     "Committee": "Planning, Land Use and Zoning",
     "Problem": "Housing security",
-    "Voucher": "Eligible to collect",
-    "Contributions": "$7,420",
-    "Contributors": 74,
-    "Photo": "Melissa_Hall"
-  },
-  {
-    "District": 6,
-    "Name": "Robert Miller",
-    "Age": "Unknown",
-    "Neighborhood": "Didn't answer",
-    "Rent": "Didn't answer",
-    "Committee": "Unknown",
-    "Problem": "Unknown",
-    "Voucher": "Eligible to collect",
-    "Contributions": "$0",
-    "Contributors": 0,
-    "Photo": "round-person"
+    "Voucher": "Eligible to collect and redeem",
+    "Contributions": "$28,386",
+    "Contributors": 333,
+    "Photo": "Melissa_Hall",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-6-candidates-on-the-issues/"
   },
   {
     "District": 6,
@@ -173,9 +202,10 @@
     "Problem": "Homelessness crisis and public safety",
     "Voucher": "Eligible to collect and redeem",
     "Vmoney": "Ballard Inn, Ballard Hotel, Olympic Gym Ballard, Savior Faire an Eco Conscious, Space Oddity, NW Market Shoes, Stoneburner, Bastille, Sweet Mickey’s Candy Store, Bongos Caribbean Restaurant, Tides and Pines, Noble Fir, Hattie’s Hat, Sunset Tavern",
-    "Contributions": "$5,944",
-    "Contributors": 174,
-    "Photo": "Sergio_Garcia"
+    "Contributions": "$58,204",
+    "Contributors": 759,
+    "Photo": "Sergio_Garcia",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-6-candidates-on-the-issues/"
   },
   {
     "District": 6,
@@ -189,8 +219,9 @@
     "Committee": "Planning, Land Use and Zoning",
     "Problem": "Affordable housing, homelessness and transit",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$9,816",
-    "Contributors": 244,
-    "Photo": "Terry_Rice"
+    "Contributions": "$34,377",
+    "Contributors": 496,
+    "Photo": "Terry_Rice",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-6-candidates-on-the-issues/"
   }
 ]

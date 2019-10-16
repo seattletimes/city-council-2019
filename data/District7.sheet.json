@@ -12,72 +12,61 @@
     "Problem": "Homelessness and affordability",
     "Endorsements": "Rep. Gael Tarleton, Fmr. King County Councilmember Larry Phillips, Fmr. Seattle City Councilmembers Martha Choe, Peter Steinbrueck, Nick Licata, and Heidi Wills, and many more.",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$57,825",
-    "Contributors": 723,
-    "Photo": "Andrew_Lewis"
+    "Contributions": "$79,545",
+    "Contributors": 960,
+    "Photo": "Andrew_Lewis",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-7-candidates-on-the-issues/"
   },
   {
     "District": 7,
     "Name": "Daniela Eng",
-    "Summary": "Daniela Eng works for a Magnolia company that provides technology for sporting events. She's spoken up about vehicle camping and crime near the business.",
-    "Age": 30,
+    "Summary": "Daniela Eng is an owner at a Magnolia company that provides technology for sporting events. She's spoken up about vehicle camping and crime near the business.",
+    "Age": 31,
     "Website": "https://www.DanielaForSeattle.com",
-    "Occupation": "Office worker",
+    "Occupation": "Small-business owner",
     "Neighborhood": "Magnolia",
     "Rent": "Own",
     "Committee": "Gender Equity, Safe Communities, New Americans and Education",
     "Problem": "Homelessness",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$10,656",
-    "Contributors": 163,
-    "Photo": "Daniela_Eng"
+    "Contributions": "$46,015",
+    "Contributors": 576,
+    "Photo": "Daniela_Eng",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-7-candidates-on-the-issues/"
   },
   {
     "District": 7,
     "Name": "Don Harper",
     "Summary": "Don Harper has chaired the Queen Anne Community Council's parks committee for 18 years. He says the council needs more \"common sense.\"",
-    "Age": 66,
-    "Website": "http://www.donharperforseattle.com",
+    "Age": 67,
+    "Website": "https://www.donharperforseattle.com",
     "Occupation": "Retired electrical contractor",
     "Neighborhood": "Queen Anne",
     "Rent": "Own",
     "Committee": "Parks",
     "Problem": "The council simply does not listen to or respond to citizens and the naive policy of allowing people to live on the street, in our parks, anywhere they choose",
     "Voucher": "Not participating",
-    "Contributions": "$5,475",
-    "Contributors": 3,
-    "Photo": "Don_Harper"
-  },
-  {
-    "District": 7,
-    "Name": "Elizabeth Campbell",
-    "Summary": "Elizabeth Campbell ran for mayor in 2009 and didn't advance past the primary. She's tried to block low-income housing at Fort Lawton, next to Discovery Park.",
-    "Age": 66,
-    "Website": "http://campbell4district7.com/index.html",
-    "Occupation": "Neighborhood activist",
-    "Neighborhood": "Magnolia",
-    "Rent": "Lives with relatives",
-    "Committee": "Transportation, Parks or Human Services",
-    "Problem": "Lack of vision and imagination by city officials in solving problems, followed by lack of discipline to make hard choices, followed by corruption of city government bodies",
-    "Voucher": "Not participating",
-    "Contributions": "$0",
-    "Contributors": 0,
-    "Photo": "Elizabeth_Campbell"
+    "Contributions": "$20,200",
+    "Contributors": 94,
+    "Photo": "Don_Harper",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-7-candidates-on-the-issues/"
   },
   {
     "District": 7,
     "Name": "Gene Burrus",
     "Summary": "Gene Burrus is a consultant and attorney who previously worked on anti-trust issues at Microsoft. He's opposed Seattle's waterfront local improvement district.",
     "Age": 55,
+    "Website": "https://geneforseattle.com/",
     "Occupation": "Consultant and attorney",
     "Neighborhood": "Downtown",
     "Rent": "Own",
     "Committee": "Gender Equity, Safe Communities, New Americans and Education",
     "Problem": "Homelessness, addiction and crime",
     "Voucher": "Eligibe to collect",
-    "Contributions": "$250",
-    "Contributors": 1,
-    "Photo": "Gene_Burrus"
+    "Contributions": "$6,324",
+    "Contributors": 31,
+    "Photo": "Gene_Burrus",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-7-candidates-on-the-issues/"
   },
   {
     "District": 7,
@@ -90,10 +79,28 @@
     "Rent": "Rent",
     "Committee": "Finance and Neighborhoods",
     "Problem": "The city of Seattle’s most important problem is homelessness, which is directly and indirectly related to mental illness, addiction and lack of job training amongst industries demonstrating a high demand for more skilled workers.",
-    "Voucher": "Eligible to collect",
-    "Contributions": "$1,317",
-    "Contributors": 34,
-    "Photo": "Isabelle_Kerner"
+    "Voucher": "Not participating",
+    "Contributions": "$4,431",
+    "Contributors": 75,
+    "Photo": "Isabelle_Kerner",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-7-candidates-on-the-issues/"
+  },
+  {
+    "District": 7,
+    "Name": "James Donaldson",
+    "Summary": "James Donaldson is a former pro basketball player and physical-therapy company owner who ran for Seattle mayor in 2009. He's the CEO of a startup that helps former atheletes mentor young athletes.",
+    "Age": 62,
+    "Website": "https://www.jamesdonaldsonteam.com",
+    "Occupation": "CEO of Athletes Playbook and Your Gift of Life Foundation",
+    "Neighborhood": "Magnolia",
+    "Rent": "Own",
+    "Committee": "Transportation, Civil Rights and Economic Development",
+    "Problem": "Seattle birthed many of the greatest innovations, ground-breaking discoveries, and some of the largest companies, yet cannot meet basic civic needs.",
+    "Voucher": "Not participating",
+    "Contributions": "$12,830",
+    "Contributors": 66,
+    "Photo": "James_Donaldson",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-7-candidates-on-the-issues/"
   },
   {
     "District": 7,
@@ -108,15 +115,16 @@
     "Problem": "Ensuring all can benefit from Seattle's economic growth",
     "Endorsements": "Former CEO of Workforce Development Council of Seattle-King County; Dennis Madsen, Former CEO of REI and Forterra board member; Tracey Eide, Former Democratic State Senator and Majority Floor Leader",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$19,838",
-    "Contributors": 216,
-    "Photo": "Jason_Williams"
+    "Contributions": "$66,713",
+    "Contributors": 719,
+    "Photo": "Jason_Williams",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-7-candidates-on-the-issues/"
   },
   {
     "District": 7,
     "Name": "Jim Pugel",
     "Summary": "Jim Pugel is a former Seattle interim police chief. He most recently served as chief deputy in the King County Sheriff's Office.",
-    "Age": 59,
+    "Age": 60,
     "Website": "https://www.jimpugel.com/",
     "Occupation": "Retired police leader",
     "Neighborhood": "Queen Anne",
@@ -125,15 +133,16 @@
     "Problem": "Bringing various groups together to prevent future and resolve current homelessness",
     "Endorsements": "Alison Holcomb, Justice Bobbe Bridge (ret), Renee Hopkins, Melinda Giovengo, Lisa Daugaard, Dan Malone, Chandler Gayton, LaKeith Asphy, Phil Fuji, my mom",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$43,196",
-    "Contributors": 317,
-    "Photo": "Jim_Pugel"
+    "Contributions": "$79,286",
+    "Contributors": 627,
+    "Photo": "Jim_Pugel",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-7-candidates-on-the-issues/"
   },
   {
     "District": 7,
     "Name": "Michael George",
     "Summary": "Michael George works on public-sector transportation and housing projects at a real-estate company. He advocates for families that live downtown.",
-    "Age": 39,
+    "Age": 40,
     "Website": "https://michaelforseattle.com",
     "Occupation": "Real-estate company public-sector project manager",
     "Neighborhood": "Downtown",
@@ -141,9 +150,10 @@
     "Committee": "Planning, Land Use and Zoning or Sustainability and Transportation",
     "Problem": "Balancing inclusivity with neighborhood livability",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$42,740",
-    "Contributors": 545,
-    "Photo": "Michael_George"
+    "Contributions": "$63,969",
+    "Contributors": 698,
+    "Photo": "Michael_George",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-7-candidates-on-the-issues/"
   },
   {
     "District": 7,
@@ -159,6 +169,7 @@
     "Voucher": "Not participating",
     "Contributions": "$6,777",
     "Contributors": 31,
-    "Photo": "Naveed_Jamali"
+    "Photo": "Naveed_Jamali",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-7-candidates-on-the-issues/"
   }
 ]

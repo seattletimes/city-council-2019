@@ -1,26 +1,9 @@
 [
   {
     "District": 4,
-    "Name": "Abel Pacheco",
-    "Summary": "Abel Pacheco leads a STEM program at the University of Washington. He ran for the District 4 seat in 2015 but didn't advance past the primary election.",
-    "Age": 31,
-    "Website": "https://abel4seattle.com",
-    "Occupation": "University of Washington MESA program strategic-engagement director",
-    "Neighborhood": "Ravenna",
-    "Rent": "Rent",
-    "Committee": "Finance and Neighborhoods",
-    "Problem": "Turning our progressive ideals into collective action on our most pressing issues: housing affordability, homelessness, and transportation",
-    "Endorsements": "State Senator Joe Nguyen & Seattle School Board member Zachary DeWolf",
-    "Voucher": "Eligible to collect",
-    "Contributions": "$9,686",
-    "Contributors": 177,
-    "Photo": "Abel_Pacheco"
-  },
-  {
-    "District": 4,
     "Name": "Alex Pedersen",
-    "Summary": "Alex Pedersen was most recently a manager at a company that helps clients invest in affordable housing. He previously worked for former Councilmember Tim Burgess.",
-    "Age": 49,
+    "Summary": "Alex Pedersen was most recently a manager at a company that helps to preserve affordable housing. He previously worked for former Councilmember Tim Burgess.",
+    "Age": 50,
     "Website": "https://electalexpedersen.org/",
     "Occupation": "City Council candidate",
     "Neighborhood": "Ravenna",
@@ -29,9 +12,27 @@
     "Problem": "Residents and local businesses want and deserve more accountability from their City Council.",
     "Endorsements": "Tim Burgess",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$71,004",
-    "Contributors": 548,
-    "Photo": "Alex_Pedersen"
+    "Contributions": "$94,296",
+    "Contributors": 659,
+    "Photo": "Alex_Pedersen",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-4-candidates-on-the-issues/"
+  },
+  {
+    "District": 4,
+    "Name": "Beth Mountsier",
+    "Summary": "Beth Mountsier is a local-government policy expert who spent more than 15 years as a King County Council analyst. She co-chairs the University Heights Community center board.",
+    "Age": 60,
+    "Website": "https://electbethmountsier.com",
+    "Occupation": "Redmond transit project manager and analyst",
+    "Neighborhood": "Ravenna",
+    "Rent": "Own",
+    "Committee": "Planning, Land Use and Zoning",
+    "Problem": "Critical leadership and technical expertise on housing (including affordable), land use and zoning that will create a more livable city for all",
+    "Voucher": "Eligible to collect",
+    "Contributions": "$5,042",
+    "Contributors": 47,
+    "Photo": "Beth_Mountsier",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-4-candidates-on-the-issues/"
   },
   {
     "District": 4,
@@ -46,9 +47,10 @@
     "Problem": "Including all voices in how we grow and change.",
     "Endorsements": "Greg Cummins, Real Change Vendor*, Ed Lazowska, UW Computer Science & Engineering*, Inga Manskopf, Ravenna-Bryant Community Association President*",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$23,383",
-    "Contributors": 351,
-    "Photo": "Cathy_Tuttle"
+    "Contributions": "$62,889",
+    "Contributors": 786,
+    "Photo": "Cathy_Tuttle",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-4-candidates-on-the-issues/"
   },
   {
     "District": 4,
@@ -62,9 +64,10 @@
     "Committee": "Gender Equity, Safe Communities, New Americans and Education",
     "Problem": "Economic inequality and all the various intersections that economic inequality encompasses",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$55,276",
-    "Contributors": 908,
-    "Photo": "Emily_Myers"
+    "Contributions": "$81,623",
+    "Contributors": 1172,
+    "Photo": "Emily_Myers",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-4-candidates-on-the-issues/"
   },
   {
     "District": 4,
@@ -78,9 +81,10 @@
     "Committee": "Planning, Land Use and Zoning",
     "Problem": "The skyrocketing price of housing and the homeless population needs immediate attention.",
     "Voucher": "Not participating",
-    "Contributions": "$4,360",
-    "Contributors": 12,
-    "Photo": "Ethan_Hunter"
+    "Contributions": "$7,721",
+    "Contributors": 32,
+    "Photo": "Ethan_Hunter",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-4-candidates-on-the-issues/"
   },
   {
     "District": 4,
@@ -94,9 +98,10 @@
     "Committee": "Human Services, Equitable Development and Renter Rights",
     "Problem": "Inflation of housing and rent prices",
     "Voucher": "Eligible to collect",
-    "Contributions": "$1,254",
-    "Contributors": 19,
-    "Photo": "Frank_Krueger"
+    "Contributions": "$3,056",
+    "Contributors": 29,
+    "Photo": "Frank_Krueger",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-4-candidates-on-the-issues/"
   },
   {
     "District": 4,
@@ -111,9 +116,10 @@
     "Problem": "Solving the homelessness crisis",
     "Endorsements": "First Ask, Arzu Forough: CEO of Washington Autism Alliance & Advocacy",
     "Voucher": "Eligible to collect",
-    "Contributions": "$10,813",
-    "Contributors": 141,
-    "Photo": "Heidi_Stuber"
+    "Contributions": "$34,296",
+    "Contributors": 384,
+    "Photo": "Heidi_Stuber",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-4-candidates-on-the-issues/"
   },
   {
     "District": 4,
@@ -127,15 +133,16 @@
     "Committee": "Planning, Land Use and Zoning",
     "Problem": "Housing affordability and transit",
     "Voucher": "Eligible to collect",
-    "Contributions": "$5,910",
-    "Contributors": 117,
-    "Photo": "Joshua_Newman"
+    "Contributions": "$19,768",
+    "Contributors": 378,
+    "Photo": "Joshua_Newman",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-4-candidates-on-the-issues/"
   },
   {
     "District": 4,
     "Name": "Sasha Anderson",
     "Summary": "Sasha Anderson directs a high-school mentoring program and says she'd represent renters on the council.",
-    "Age": 38,
+    "Age": 39,
     "Website": "https://Sashafor4.org",
     "Occupation": "Big Brothers Big Sisters program coordinator",
     "Neighborhood": "Roosevelt",
@@ -143,9 +150,10 @@
     "Committee": "Gender Equity, Safe Communities, New Americans and Education",
     "Problem": "Equitable city planning",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$25,700",
-    "Contributors": 447,
-    "Photo": "Sasha_Anderson"
+    "Contributions": "$40,624",
+    "Contributors": 605,
+    "Photo": "Sasha_Anderson",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-4-candidates-on-the-issues/"
   },
   {
     "District": 4,
@@ -160,8 +168,9 @@
     "Problem": "A regressive tax climate that balances budgets on the backs of working people, students and vulnerable homeowners",
     "Endorsements": "Seattle Democratic Socialists of America, Cary Moon",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$75,049",
-    "Contributors": 328,
-    "Photo": "Shaun_Scott"
+    "Contributions": "$79,141",
+    "Contributors": 1111,
+    "Photo": "Shaun_Scott",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-4-candidates-on-the-issues/"
   }
 ]

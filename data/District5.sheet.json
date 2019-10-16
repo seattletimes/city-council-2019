@@ -11,7 +11,8 @@
     "Voucher": "Not participating",
     "Contributions": "$0",
     "Contributors": 0,
-    "Photo": "round-person"
+    "Photo": "round-person",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-5-candidates-on-the-issues/"
   },
   {
     "District": 5,
@@ -26,23 +27,10 @@
     "Problem": "Homelessness combined with an opioid epidemic",
     "Endorsements": "Nate McMillan (former Seattle SuperSonics player and head coach)",
     "Voucher": "Not participating",
-    "Contributions": "$16,509",
-    "Contributors": 65,
-    "Photo": "Ann_Davison_Sattler"
-  },
-  {
-    "District": 5,
-    "Name": "David Ishii",
-    "Summary": "David Ishii is an eccentric former postal worker and a street artist who has sought political office multiple times, unsuccessfully.",
-    "Age": 62,
-    "Neighborhood": "Didn't answer",
-    "Rent": "Didn't answer",
-    "Committee": "Didn't answer",
-    "Problem": "Didn't answer",
-    "Voucher": "Not participating",
-    "Contributions": "$0",
-    "Contributors": 0,
-    "Photo": "round-person"
+    "Contributions": "$40,971",
+    "Contributors": 224,
+    "Photo": "Ann_Davison_Sattler",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-5-candidates-on-the-issues/"
   },
   {
     "District": 5,
@@ -56,15 +44,16 @@
     "Committee": "Civic Development, Public Assets, and Native Communities",
     "Problem": "Seattle, especially District 5, is growing at a rapid rate so we need to focus on homelessness, public safety and the need for more transportation options like light rail.",
     "Voucher": "Eligible to collect",
-    "Contributions": "$31,615",
-    "Contributors": 215,
-    "Photo": "Debora_Juarez"
+    "Contributions": "$68,070",
+    "Contributors": 667,
+    "Photo": "Debora_Juarez",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-5-candidates-on-the-issues/"
   },
   {
     "District": 5,
     "Name": "John Lombard",
     "Summary": "John Lombard previously led the North District Council and the Thornton Creek Alliance. He says the incumbent has ignored neighborhood concerns.",
-    "Age": 57,
+    "Age": 58,
     "Website": "http://votejohnlombard.com/",
     "Occupation": "Environmental-policy consultant",
     "Neighborhood": "Northgate",
@@ -73,8 +62,41 @@
     "Problem": "Homelessness",
     "Endorsements": "Community leaders, including Daigoro Toyoma, President of the Pinehurst Community Council; Brad Cummings, former Co-Chair, North District Council, and former President, Victory Heights Community Council; Ruth Williams, former President, Thornton Creek Alliance; Dan Keefe, former Co-Chair, North District Council, and former President, Meadowbrook Community Council; and Don Thornton, board member, Haller Lake Community Club",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$8,560",
-    "Contributors": 182,
-    "Photo": "John_Lombard"
+    "Contributions": "$49,405",
+    "Contributors": 645,
+    "Photo": "John_Lombard",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-5-candidates-on-the-issues/"
+  },
+  {
+    "District": 5,
+    "Name": "Mark Mendez",
+    "Summary": "Mark Mendez is a community and youth organizer in Lake City, where he grew up. He's worked for theYMCA and has been involved with the Lake City Neighborhood Alliance.",
+    "Age": 41,
+    "Occupation": "Community organizer",
+    "Neighborhood": "Lake City",
+    "Rent": "Rent",
+    "Committee": "Human Services, Equitable Development and Renter Rights",
+    "Problem": "Affordable housing and homelessness, bringing more resources to our three underserved urban villages (Lake City, Bitter Lake and Aurora-Licton), youth as future leaders and protecting our environment",
+    "Voucher": "Eligible to collect",
+    "Contributions": "$5,523",
+    "Contributors": 87,
+    "Photo": "Mark_Mendez",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-5-candidates-on-the-issues/"
+  },
+  {
+    "District": 5,
+    "Name": "Tayla Mahoney",
+    "Summary": "Tayla Mahoney is an electrical administrator and a graduate of the Seattle University School of Law.",
+    "Age": 30,
+    "Occupation": "Electrical administrator and attorney",
+    "Neighborhood": "Cedar Park",
+    "Rent": "Rent",
+    "Committee": "Finance and Neighborhoods",
+    "Problem": "Effectively addressing the cycle of homelessness",
+    "Voucher": "Not participating",
+    "Contributions": "$1,675",
+    "Contributors": 10,
+    "Photo": "Tayla_Mahoney",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-5-candidates-on-the-issues/"
   }
 ]

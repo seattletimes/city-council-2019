@@ -1,0 +1,38 @@
+<section>
+            <div class="block">
+               <div>
+               <img class="candidate-photo" src="./assets/<%= item.Photo %>.jpg"/>
+               
+               <p class="label">District <%= item.District %></p>
+
+               <p class="candidate-info"><%= item.Name %>, <%= item.Age %><br></p>
+               <p class="candidate-stats"><%= item.Occupation %></p>
+               
+                     
+               </div>
+            
+               <div>
+                <p>
+                  <strong></strong> <%= item.Summary %> </p>
+                     <p class="boldLink"> 
+                     <a href="<%= item.QA %>" target="_blank">Candidate Q&A</a></p>
+
+                  <label for="more<%= item.Photo %>" class="excerpt name"><a>More info</a></strong></label>
+                  <input type="checkbox" style="display:none;" id="more<%= item.Photo %>"/>
+                  <div class="responses">
+                     <p><strong>What’s the city’s most important problem?</strong> <%= item.Problem %> </p>
+                     <p><strong>What committee would you like to chair?</strong> <%= item.Committee %></p>
+                     <p><strong>Voucher status:</strong> <%= item.Voucher %>
+                     </p>
+                     <p><strong>Contributions</strong><br> (cash and redeemed vouchers)<strong>:</strong> <br><%= item.Contributions %>
+                     <br>
+                     <strong>Contributors</strong><br> (cash and redeemed vouchers)<strong>:</strong> <br><%= item.Contributors %>
+                     </p>
+                     <p> <strong>Where do you live? </strong><%= item.Neighborhood %><br>
+                     <strong>Own or rent? </strong><%= item.Rent %></p>
+                     <p class="name"> 
+                     <a href="<%= item.Website %>"><%= item.Website %></a></p>
+                  </div>
+                  </div>
+               </div>
+</section>

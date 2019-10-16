@@ -1,31 +1,50 @@
 <section>
+
             <div class="block">
                <div>
                <img class="candidate-photo" src="./assets/<%= item.Photo %>.jpg"/>
                
-               <p class="label">District <%= item.District %></p>
+               <p class="label">District <%= item.District %>
+               </p>
 
                <p class="candidate-info"><%= item.Name %>, <%= item.Age %><br></p>
                <p class="candidate-stats"><%= item.Occupation %></p>
+               
+                     
                </div>
+
+              
             
                <div>
-                  
                 <p>
                   <strong></strong> <%= item.Summary %> </p>
-                  <label for="more<%= item.Photo %><%= index %>" class="excerpt name"><a>More info</a></strong></label>
-                  <input type="checkbox" style="display:none;" id="more<%= item.Photo %><%= index %>"/>
+                     <p class="boldLink"> 
+                     <a href="<%= item.QA %>" target="_blank">Candidate Q&A</a></p>
+
                   <div class="responses">
                      <p><strong>What’s the city’s most important problem?</strong> <%= item.Problem %> </p>
                      <p><strong>What committee would you like to chair?</strong> <%= item.Committee %></p>
                      <p><strong>Voucher status:</strong> <%= item.Voucher %>
                      </p>
-                     <p><strong>Contributions:</strong> <%= item.Contributions %>
+                     <p><strong>Contributions</strong> (cash and redeemed vouchers)<strong>:</strong> <%= item.Contributions %>
                      <br>
-                     <strong>Contributors:</strong> <%= item.Contributors %>
+                     <strong>Contributors</strong> (cash and redeemed vouchers)<strong>:</strong> <%= item.Contributors %>
                      </p>
                      <p> <strong>Where do you live? </strong><%= item.Neighborhood %><br>
                      <strong>Own or rent? </strong><%= item.Rent %></p>
+                     <p><strong>Are Seattle’s largest businesses paying the city enough in taxes?</strong> <%= item.Taxes %>
+                     </p><p><strong>Does Seattle have enough tax revenue to address homelessness?</strong> <%= item.Homelessness %>
+                     </p><p><strong>Should Seattle toll downtown streets?</strong> <%= item.Tolls %>
+                     </p><p><strong>Should Seattle allow duplexes and triplexes on more blocks?</strong> <%= item.Duplexes %>
+                     </p><p><strong>Does Seattle need a larger police force?</strong> <%= item.Police %>
+                     </p>
+                     <p><strong>Should Seattle be building a First Avenue streetcar line?</strong> <%= item.Streetcar %>
+                     </p>
+                     <p><strong>Would Seattle benefit from a safe drug-consumption site?</strong> <%= item.Drugs %>
+                     </p>
+                     <p><strong>Could Seattle benefit from rent control?</strong> <%= item.Rents %>
+                     </p>
+
                      <p class="name"> 
                      <a href="<%= item.Website %>"><%= item.Website %></a></p>
                   </div>

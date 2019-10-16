@@ -3,7 +3,7 @@
     "District": 2,
     "Name": "Ari Hoffman",
     "Summary": "Ari Hoffman runs property-management and bounce-house rental companies. He says Seattle is overrun with crime because laws aren't enforced.",
-    "Age": 37,
+    "Age": 38,
     "Website": "https://hoffmanforseattle.com",
     "Occupation": "Property-management company owner",
     "Neighborhood": "Seward Park",
@@ -12,9 +12,10 @@
     "Problem": "Equitable safety: Everyone in Seattle deserves to feel safe and protected, from children and families experiencing homelessness to small-business owners and long-time residents.",
     "Endorsements": "Eleanor Owen founder of the Washington Advocates for the Mentally Ill and co-founder of the National Alliance for the Mentally Ill (NAMI) Kirby Wilbur Radio Host 570 KVI Michael Medved Radio Host 770 KTTH Saul Spady, Independent Millennial",
     "Voucher": "Not participating",
-    "Contributions": "$44,967",
-    "Contributors": 318,
-    "Photo": "Ari_Hoffman"
+    "Contributions": "$86,598",
+    "Contributors": 547,
+    "Photo": "Ari_Hoffman",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-2-candidates-on-the-issues/"
   },
   {
     "District": 2,
@@ -28,9 +29,10 @@
     "Committee": "Civil Rights, Utilities, Economic Development and Arts",
     "Problem": "Affordability: The incredible success of our region and city should benefit all.",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$12,260",
-    "Contributors": 196,
-    "Photo": "Chris_Peguero"
+    "Contributions": "$46,295",
+    "Contributors": 760,
+    "Photo": "Chris_Peguero",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-2-candidates-on-the-issues/"
   },
   {
     "District": 2,
@@ -47,7 +49,8 @@
     "Voucher": "Not participating",
     "Contributions": "$0",
     "Contributors": 0,
-    "Photo": "Henry_Clay_Dennison"
+    "Photo": "Henry_Clay_Dennison",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-2-candidates-on-the-issues/"
   },
   {
     "District": 2,
@@ -62,25 +65,25 @@
     "Problem": "Affordable livability",
     "Endorsements": "Betty Patu, Seattle School Board President; Camille Monzon-Richards, Executive Director Emerita, Seattle Indian Center; Retired State Representative, Mary Lou Dickerson (D-36); State Representative Gael Tarleton D-36); King County Council Member Larry Gossett; Juan Cotto, Director of Social Impact for Bloodworks Northwest, and past Board President of El Centro de la Raza",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$10,884",
-    "Contributors": 213,
-    "Photo": "Mark_Solomon"
+    "Contributions": "$42,415",
+    "Contributors": 622,
+    "Photo": "Mark_Solomon",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-2-candidates-on-the-issues/"
   },
   {
     "District": 2,
-    "Name": "Matthew Perkins",
-    "Summary": "Matthew Perkins is a massage therapist concerned about homelessness. He says he'll support more efficient spending and work to lower property taxes.",
-    "Age": 33,
-    "Website": "http://www.accountability4seattle.com",
-    "Occupation": "Massage therapist",
-    "Neighborhood": "Pioneer Square",
-    "Rent": "Rent",
-    "Committee": "Homelessness and Housing",
-    "Problem": "Homelessness, opioid epidemic and affordable housing",
+    "Name": "Omari Tahir-Garrett",
+    "Summary": "Omari Tahir-Garrett is a longtime community activist. His occupation of the former Colman School preceded the creation of the Northwest African American Museum.",
+    "Age": 73,
+    "Neighborhood": "Didn't answer",
+    "Rent": "Didn't answer",
+    "Committee": "Didn't answer",
+    "Problem": "Didn't answer",
     "Voucher": "Not participating",
-    "Contributions": "$1,575",
-    "Contributors": 10,
-    "Photo": "Matthew_Perkins"
+    "Contributions": "$0",
+    "Contributors": 0,
+    "Photo": "round-person",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-2-candidates-on-the-issues/"
   },
   {
     "District": 2,
@@ -94,16 +97,17 @@
     "Committee": "Transportation, Housing Affordability and Equity",
     "Problem": "Affordability",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$28,198",
-    "Contributors": 612,
-    "Photo": "Phyllis_Porter"
+    "Contributions": "$41,168",
+    "Contributors": 796,
+    "Photo": "Phyllis_Porter",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-2-candidates-on-the-issues/"
   },
   {
     "District": 2,
     "Name": "Tammy Morales",
     "Summary": "Tammy Morales was was narrowly defeated in District 2 in 2015. A Rainier Beach community organizer, she previously worked as a consultant on healthful food access.",
     "Age": 50,
-    "Website": "https://www.votefortammy.com/",
+    "Website": "http://www.votefortammy.com/",
     "Occupation": "Community organizer",
     "Neighborhood": "Lakewood",
     "Rent": "Own",
@@ -111,8 +115,9 @@
     "Problem": "Inequality and racial disparities in wealth, housing, education, health care and justice",
     "Endorsements": "Congresswoman Pramila Jayapal, State Senator Rebecca Saldana, CM Teresa Mosqueda",
     "Voucher": "Eligible to collect and redeem",
-    "Contributions": "$74,911",
-    "Contributors": 1084,
-    "Photo": "Tammy_Morales"
+    "Contributions": "$83,311",
+    "Contributors": 1129,
+    "Photo": "Tammy_Morales",
+    "QA": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-questions-district-2-candidates-on-the-issues/"
   }
 ]

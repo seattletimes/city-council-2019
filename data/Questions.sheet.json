@@ -1,0 +1,34 @@
+[
+  {
+    "Issue": "Taxes",
+    "Question": "Are Seattle’s largest businesses paying the city enough in taxes?"
+  },
+  {
+    "Issue": "Homelessness",
+    "Question": "Does Seattle have enough tax revenue to address homelessness?"
+  },
+  {
+    "Issue": "Tolls",
+    "Question": "Should Seattle toll downtown streets?"
+  },
+  {
+    "Issue": "Duplexes",
+    "Question": "Should Seattle allow duplexes and triplexes on more blocks?"
+  },
+  {
+    "Issue": "Police",
+    "Question": "Does Seattle need a larger police force?"
+  },
+  {
+    "Issue": "Streetcar",
+    "Question": "Should Seattle be building a First Avenue streetcar line?"
+  },
+  {
+    "Issue": "Drugs",
+    "Question": "Would Seattle benefit from a safe drug-consumption site?"
+  },
+  {
+    "Issue": "Rents",
+    "Question": "Could Seattle benefit from rent control?"
+  }
+]
